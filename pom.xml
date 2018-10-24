@@ -18,7 +18,7 @@
         <dependency>
             <groupId>com.github.DiarmuidBeirne</groupId>
             <artifactId>CT417Assignment1</artifactId>
-            <version>02b2df0de4</version>
+            <version>-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
