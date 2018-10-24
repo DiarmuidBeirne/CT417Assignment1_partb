@@ -103,7 +103,7 @@ public class driver {
 
         for(Course c : courseList) {
             moduleList = c.getModules();
-            System.out.println("\n\n" + c.getCourseName() + "\n\n");
+            System.out.println("\n\n" + c.getCourseName() + "\n");
             System.out.println("Modules:");
             for (Module m : moduleList) {
                 System.out.println("\nModule Name:\t" + m.getModuleName());
@@ -127,7 +127,7 @@ public class driver {
             {
                 System.out.println(m.getModuleName());
             }
-            System.out.println("\n\n");
+            System.out.println("\n");
 
         }
 
